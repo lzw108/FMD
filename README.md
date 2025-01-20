@@ -5,9 +5,9 @@ This work also supported Financial Misinformation Detection ([FMD](https://colin
 [Paper arXiv](https://www.arxiv.org/abs/2409.16452)
 
 ## News
-📢 *Jan. 20, 2024* Our FMDLlama paper has been accepted by WWW 2025 as a short paper.
+📢 *Jan. 20, 2025* Our FMDLlama paper has been accepted by WWW 2025 as a short paper.
 
-📢 *Jan. 20, 2024* The Financial Misinformation Detection Challenge has successfully wrapped up at COLING 2025. Learn more about the challenge at [here](https://huggingface.co/spaces/TheFinAI/FMD2025).
+📢 *Jan. 20, 2025* The Financial Misinformation Detection Challenge has successfully wrapped up at COLING 2025. Learn more about the challenge at [here](https://huggingface.co/spaces/TheFinAI/FMD2025).
 
 📢 *Sep. 26, 2024* New preprint paper related to this work: "FMDLlama: Financial Misinformation Detection based on Large Language Models" at [arXiv](https://www.arxiv.org/abs/2409.16452).
 
