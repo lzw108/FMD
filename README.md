@@ -1,4 +1,4 @@
-# COLING25-FMD
+# Financial Misinformation Detection
 
 This is the baseline of Financial Misinformation Detection ([FMD](https://coling2025fmd.thefin.ai/)) at Coling 2025
 
