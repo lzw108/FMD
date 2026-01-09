@@ -16,25 +16,25 @@ This is a continuous project on Financial Misinformation Detection (FMD).
 
 
 
-# Work 1:FMD LLama: This work also supported Financial Misinformation Detection ([FMD](https://coling2025fmd.thefin.ai/)) challenge at COLING 2025
+## Work 1:FMD LLama: This work also supported Financial Misinformation Detection ([FMD](https://coling2025fmd.thefin.ai/)) challenge at COLING 2025
 
 [Paper arXiv](https://www.arxiv.org/abs/2409.16452)
 
 
-## Datasets
+### Datasets
 
 - **Practice data**: [Link](https://huggingface.co/datasets/lzw1008/COLING25-FMD/tree/main/practice_data)
 - **Complete train data**: [Link](https://huggingface.co/datasets/lzw1008/COLING25-FMD/tree/main/Training)
 - **Test data**: TBD
 
-## Usage
+### Usage
 
-### Data preprocess
+#### Data preprocess
 
 You can follow the *practice_data_preprocess.ipynb* file to get instruction train/val/test data in ./data/practice_data/instruct_data/ path.
 The default is an instruction example, change accordingly as need.
 
-### Convert data format
+#### Convert data format
 
 ```python
 # train
@@ -47,26 +47,26 @@ The commands above are to convert the data into dialogue data format for LLMs tr
 The current format is used for the LLaMA2 series (i.e. "*Human*": "sentence", "*Assistant*": "sentence" ). 
 If you need to switch to other LLMs, please make the corresponding modifications.
 
-### Fine-tune
+#### Fine-tune
 
 ```python
 bash ./src/run_sft.sh
 ```
 
 
-### Inference
+#### Inference
 ```python
 bash src/run_inference.sh
 ```
 
-### Evaluation
+#### Evaluation
 Follow the *evaluation.ipynb* file to get F1, rouge, bertscore, and final score.
 
-## License
+### License
 
 This project is licensed under [MIT]. Please find more details in the [MIT](LICENSE) file.
 
-## Citation
+### Citation
 
 ```
 @article{liu2024fmdllama,
