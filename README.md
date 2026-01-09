@@ -16,7 +16,7 @@ This is a continuous project on Financial Misinformation Detection (FMD).
 
 
 
-## Work 1:FMD LLama: This work also supported Financial Misinformation Detection ([FMD](https://coling2025fmd.thefin.ai/)) challenge at COLING 2025
+## Work 1: FMD LLama: This work also supported Financial Misinformation Detection ([FMD](https://coling2025fmd.thefin.ai/)) challenge at COLING 2025
 
 [Paper arXiv](https://www.arxiv.org/abs/2409.16452)
 
