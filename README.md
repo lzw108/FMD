@@ -1,6 +1,6 @@
 # Financial Misinformation Detection
 
-
+This is a continuous project on Financial Misinformation Detection (FMD).
 
 ## News
 📢 *Jan. 20, 2025* Our FMDLlama paper has been accepted by WWW 2025 as a short paper.
