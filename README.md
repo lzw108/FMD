@@ -24,6 +24,18 @@ This is a continuous project on Financial Misinformation Detection (FMD).
 - [Link](https://huggingface.co/datasets/CarolynJiang/RFC-Bench-Dataset)
 
 
+
+### Citation
+```
+@article{jiang2026glistersgoldbenchmarkreferencefree,
+  title={All That Glisters Is Not Gold: A Benchmark for Reference-Free Counterfactual Financial Misinformation Detection},
+  author={Yuechen Jiang and Zhiwei Liu and Yupeng Cao and Yueru He and Chen Xu and Ziyang Xu and Zhiyang Deng and Prayag Tiwari and Xi Chen and Alejandro Lopez-Lira and Jimin Huang and Junichi Tsujii and Sophia Ananiadou},
+  journal={arXiv preprint arXiv:2601.04160},
+  year={2024}
+}
+```
+
+
 ## Work 2: Same Claim, Different Judgment: Benchmarking Scenario-Induced Bias in Multilingual Financial Misinformation Detection
 
 
