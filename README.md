@@ -3,11 +3,17 @@
 This is a continuous project on Financial Misinformation Detection (FMD).
 
 ## News
-📢 *Jan. 20, 2025* Our FMDLlama paper has been accepted by WWW 2025 as a short paper.
 
-📢 *Jan. 20, 2025* The Financial Misinformation Detection Challenge has successfully wrapped up at COLING 2025. Learn more about the [challenge](https://huggingface.co/spaces/TheFinAI/FMD2025).
 
-📢 *Sep. 26, 2024* New preprint paper related to this work: "FMDLlama: Financial Misinformation Detection based on Large Language Models" at [arXiv](https://www.arxiv.org/abs/2409.16452).
+📢 *Jan. 2026* New preprint paper "All That Glisters Is Not Gold: A Benchmark for Reference-Free Counterfactual Financial Misinformation Detection" at [arXiv](https://arxiv.org/abs/2601.04160).
+
+📢 *Jan. 2026* New preprint paper "Same Claim, Different Judgment: Benchmarking Scenario-Induced Bias in Multilingual Financial Misinformation Detection" at [arXiv]().
+
+📢 *Jan. 2025* Our FMDLlama paper has been accepted by WWW 2025 as a short paper.
+
+📢 *Jan. 2025* The Financial Misinformation Detection Challenge has successfully wrapped up at COLING 2025. Learn more about the [challenge](https://huggingface.co/spaces/TheFinAI/FMD2025).
+
+📢 *Sep. 2024* New preprint paper related to this work: "FMDLlama: Financial Misinformation Detection based on Large Language Models" at [arXiv](https://www.arxiv.org/abs/2409.16452).
 
 
 
