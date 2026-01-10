@@ -29,9 +29,8 @@ This is a continuous project on Financial Misinformation Detection (FMD).
 
 ### Datasets
 
-- **Practice data**: [Link](https://huggingface.co/datasets/lzw1008/COLING25-FMD/tree/main/practice_data)
-- **Complete train data**: [Link](https://huggingface.co/datasets/lzw1008/COLING25-FMD/tree/main/Training)
-- **Test data**: TBD
+- [Link](https://huggingface.co/datasets/lzw1008/COLING25-FMD/)
+
 
 ### Usage
 
@@ -75,10 +74,11 @@ This project is licensed under [MIT]. Please find more details in the [MIT](LICE
 ### Citation
 
 ```
-@article{liu2024fmdllama,
-  title={FMDLlama: Financial Misinformation Detection based on Large Language Models},
+@inproceedings{liu2025fmdllama,
+  title={Fmdllama: Financial misinformation detection based on large language models},
   author={Liu, Zhiwei and Zhang, Xin and Yang, Kailai and Xie, Qianqian and Huang, Jimin and Ananiadou, Sophia},
-  journal={arXiv preprint arXiv:2409.16452},
-  year={2024}
+  booktitle={Companion Proceedings of the ACM on Web Conference 2025},
+  pages={1153--1157},
+  year={2025}
 }
 ```
