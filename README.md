@@ -4,6 +4,7 @@ This is a continuous project on Financial Misinformation Detection (FMD).
 
 ## News
 
+📢 *Feb. 2026* New shared task related to financial misinformation detection, the details can be found at https://sites.google.com/view/icwsm-2026-fmd/home.
 
 📢 *Jan. 2026* New preprint paper "All That Glisters Is Not Gold: A Benchmark for Reference-Free Counterfactual Financial Misinformation Detection" at [arXiv](https://arxiv.org/abs/2601.04160).
 
