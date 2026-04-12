@@ -4,7 +4,7 @@ This is a continuous project on Financial Misinformation Detection (FMD).
 
 ## News
 
-📢 *Apr. 2026*: The papers "All That Glisters Is Not Gold: A Benchmark for Reference-Free Counterfactual Financial Misinformation Detection" and "Same Claim, Different Judgment: Benchmarking Scenario-Induced Bias in Multilingual Financial Misinformation Detection" were accepted by ACL 2026 and ACL 2026 Findings separately. 
+📢 *Apr. 2026*: The papers "All That Glisters Is Not Gold: A Benchmark for Reference-Free Counterfactual Financial Misinformation Detection" and "Same Claim, Different Judgment: Benchmarking Scenario-Induced Bias in Multilingual Financial Misinformation Detection" have been accepted by ACL 2026 and ACL 2026 Findings separately. 
 
 📢 *Feb. 2026*: New shared task related to financial misinformation detection, the details can be found at https://sites.google.com/view/icwsm-2026-fmd/home.
 
